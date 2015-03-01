@@ -54,5 +54,5 @@
 		</tbody>
 	</table>
 </body>
-<?php get_sidebar('right');?>
+<?php get_sidebar('MySideBar');?>
 <?php get_footer();?>
