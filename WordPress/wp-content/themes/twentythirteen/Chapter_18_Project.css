@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+.content {
+	font-size:20px;
+	font-weight:bold;
+	color:pink;
+}
+
+.paragraph1,.paragraph2,.paragraph3,.paragraph4 {
+	border:1px dashed green;
+	width:600px;
+	height:auto;
+	text-align:justify;
+	margin-left:5px;
+	padding: 10px;
+}
+.paragraph2 {
+	
+	display:none;
+}
+.paragraph4 {
+	visibility: hidden;
+}

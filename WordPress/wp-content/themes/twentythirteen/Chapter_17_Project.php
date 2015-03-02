@@ -45,7 +45,7 @@
 			<th>Salary</th>
 		</thead>
 		<tbody>
-			<tr><td>Md.Aminul Islam</td><td>Accounts</td><td class="sclass">35,000</td></tr>
+			<tr><td>Md.Aminul Islam</td><td>Accounts</td><td class="sal_class">35,000</td></tr>
 			<tr><td>Md.Saiful Islam</td><td>Accounts</td><td class="sclass">40,000</td></tr>
 			<tr><td>Md.Hafijul Islam</td><td>Accounts</td><td class="sclass">25,000</td></tr>
 			<tr><td>Md.Hafizur Rahman</td><td>Personnel</td><td class="sclass">50,000</td></tr>
