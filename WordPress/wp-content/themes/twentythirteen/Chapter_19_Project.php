@@ -56,7 +56,7 @@
 	idea of a summer away from my best friend was, frankly, a deal breaker.
 </p>
 <p class="paragraph6">
-	<span class="content">Fill your bookshelf with endless possibilities.6</span></br>
+	<span class="content">Fill your bookshelf with endless possibilities.6</span><br />
 	Storybird has any type of book for any type of reader. Follow along as memorable stories emerge. 
 	Comment on books you enjoy to interact with their creators.She grew quiet as she navigated the unfamiliar 
 	backroad, and my mind fired up with thoughts about the next few months. When Mom told me we’d be spending 

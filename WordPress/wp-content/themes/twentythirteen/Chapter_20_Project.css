@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+
+.parent-img {
+	margin-left:235px;
+	margin-right:235px;
+	width: 150px;
+}
+div.image-description {
+	border:10px solid red;
+	width:620px;
+	height:auto;
+	margin-left:10px;
+	margin-top:10px;
+	padding-top:10px;
+	border-image:url("images/sony.jpg") 30 30 30 30 round;
+}
+.content {
+    font-size:20px;
+    font-weight:bold;
+    color:pink;
+}
+
+.paragraph1,.paragraph2,.paragraph3 {
+    border-bottom:1px dashed green;
+    width:600px;
+    height:auto;
+    text-align:justify;
+    margin-left:5px;
+    padding: 10px;
+}
+.paragraph3 {
+    position:static;
+    border-bottom:none;
+    
+}
+/* .paragraph2 { */
+/*     position:fixed; */
+/*     top:50px; */
+/*     left:150px; */
+/*     background-color:skyblue; */
+/* } */
+/* .paragraph3 { */
+/*     position:relative; */
+/* } */
