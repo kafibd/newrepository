@@ -22,7 +22,8 @@
     color:pink;
 }
 
-.paragraph1,.paragraph2,.paragraph3 {
+.paragraph1, .paragraph2,
+.paragraph3 {
     border:10px dashed green;
     border-image:url("images/sony.jpg") 30 30 30 30 round;
     width:600px;

@@ -1,0 +1,61 @@
+@CHARSET "ISO-8859-1";
+
+div.body-img {
+	border:1px solid green;
+	width:800px;
+	height:1000px;
+	
+	background-repeat:repeat;
+}
+.content-header {
+	width: 100px;
+    height: auto;
+    font-size: 30px;
+    font-weight: bold;
+    color: magenta;
+    margin-left: 250px;
+    text-shadow: 5px 10px 5px #8080ff;
+}
+.content {
+	width: 600px;
+	height: auto;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+    text-shadow: 3px 5px 3px green;
+/*     overflow: hidden; */
+/*     white-space: nowrap; */
+/*     text-overflow: ellipsis; */
+}
+
+.paragraph1, 
+.paragraph2,
+.paragraph3 {
+    border:1px dashed green;
+/*     border-image:url("images/sony.jpg") 30 30 30 30 round; */
+    height:auto;
+    text-align:justify;
+    margin:20px 20px 50px 20px;
+    padding: 10px;
+    background-image:url("images/headers/star.png");
+    background-clip:content-box;
+/*     border-radius:10px; */
+/*     box-shadow:10px 10px 10px green; */
+/*     background-color:hsl(200,50%,50%); */
+
+}
+.paragraph1 {
+    width: 620px;
+    height: 200px;
+}
+.paragraph2 {
+    width: 620px;
+    height: 200px;
+}
+.paragraph3 {
+    width: 620px;
+    height: 250px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
